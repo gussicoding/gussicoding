@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá! Eu sou estudante de Engenharia de Software 👋
+Atualmente estou cursando o 2º semestre de Engenharia de Software.
 
-<!--
-**gussicoding/gussicoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou desenvolvendo minhas habilidades em programação, com foco em lógica, desenvolvimento Front-End e fundamentos de software.
 
-Here are some ideas to get you started:
+Tecnologias que estou estudando
+C
+HTML
+CSS
+JavaScript
+Git
+GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos em destaque
+- Algoritmo Bubble Sort em C
+- Exercícios de Algoritmos
+- Projetos de Desenvolvimento Front-End
+Objetivo: evoluir constantemente como profissional de tecnologia, desenvolvendo projetos práticos e adquirindo experiência.
